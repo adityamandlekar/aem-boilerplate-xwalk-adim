@@ -1,6 +1,3 @@
-Author - Aditya Mandlekar
-Objective - Exploration and learnings on AEM
-
 # Edge Delivery Services with AEM Authoring Boilerplate for Commerce
 This project boilerplate is for AEM Authoring with Edge Delivery Services (aka Crosswalk) projects that integrate with Adobe Commerce.
 
@@ -81,3 +78,7 @@ See also [Developer Tutorial](https://experienceleague.adobe.com/en/docs/experie
 - some commerce blocks dont show the final output in UE but placeholders, e.g. account related blocks, enrichment. To see them in action you have to preview or publish the page.
 - folder mapping is used on Edge Delivery to map virtual product pages to a an existing page template (/products/default). if you open the the template page in UE, to be able to see the pdp block, one product has been [hardcoded](https://github.com/adobe-rnd/aem-boilerplate-xcom/blob/main/scripts/editor-support.js#L15) for now.
 - It is [recommended](https://experienceleague.adobe.com/developer/commerce/storefront/seo/metadata/) uploading product metadata into Edge Delivery Services so that it can be rendered server-side on product detail pages, see `/products/default/metadata` spreadheet. There is a tool that can help you create this data, see [here](https://experienceleague.adobe.com/developer/commerce/storefront/seo/metadata/#generate-metadata).
+
+
+Author - Aditya Mandlekar
+Objective - Exploration and learnings on AEM
