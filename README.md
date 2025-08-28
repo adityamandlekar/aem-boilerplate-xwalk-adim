@@ -1,3 +1,6 @@
+Author - Aditya Mandlekar
+Objective - Exploration and learnings on AEM
+
 # Edge Delivery Services with AEM Authoring Boilerplate for Commerce
 This project boilerplate is for AEM Authoring with Edge Delivery Services (aka Crosswalk) projects that integrate with Adobe Commerce.
 
